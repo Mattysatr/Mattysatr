@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mattysatr
-- 👀 I’m interested in programming and web development
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in programming and web development 
+- 🌱 I’m currently learning software engineering and web development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
